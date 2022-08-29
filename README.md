@@ -6,5 +6,5 @@ Have you found yourself asking "Which NoSQL database should I use?" or "How do t
 ## Model
 Below is a high level overview of the model that will be used in the graph, document, and key value examples.
 
-![High Level Model](https://github.com/bowersj/CloudNoSQLOverview/blob/main/highLevelModel.png?raw=true)
+![High Level Model](https://github.com/joshuabowersChurch/Cloud-NoSQL-Overview/blob/main/highLevelModel.png?raw=true)
 
