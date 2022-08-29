@@ -1,0 +1,47 @@
+{
+  "id": "4e1dc6c6-d1e7-416b-a7f5-ff1166fc41c8",
+  "name": "Lehner Group",
+  "suffix": "Group",
+  "status": "PUBLISHED",
+  "website": "electric-spyglass.net",
+  "slogan": "User-friendly clear-thinking contingency",
+  "keywords": [],
+  "soldBy": "2ecdcc24-013b-4ed0-8f01-e247164b3f7e",
+  "email": [
+    {
+      "type": "support",
+      "address": "support20@electric-spyglass.net"
+    }
+  ],
+  "domain": [
+    {
+      "type": "support",
+      "address": "https://support.electric-spyglass.net/"
+    },
+    {
+      "type": "sales",
+      "address": "http://sales.electric-spyglass.net/"
+    },
+    {
+      "type": "internal",
+      "address": "https://internal.electric-spyglass.net/"
+    }
+  ],
+  "companyHQ": {
+    "street": "400 S 205 E",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "country": "United States of America",
+    "countryCode": "US",
+    "latitude": 40.759926,
+    "longitude": -111.884888
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastChangeReason": "Reflect new company slogan",
+    "lastUpdatedOn": "2016-08-28T10:15:21.568Z",
+    "lastUpdatedBy": "e3be93b4-4ae3-44d6-9c6a-f6036e59c6f3",
+    "createdOn": "2014-08-12T04:57:37.526Z",
+    "createdBy": "0629dc7e-f322-425e-9043-5762af7cec8a"
+  }
+}
