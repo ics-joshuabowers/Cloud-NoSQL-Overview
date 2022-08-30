@@ -1,0 +1,121 @@
+{
+  "id": "e79da7ec-970e-4038-91f2-84b95a8621fd",
+  "name": "King - Kuhlman",
+  "suffix": "LLC",
+  "status": "REVIEWED",
+  "website": "unwritten-inch.name",
+  "slogan": "Reactive user-facing encoding",
+  "keywords": [
+    "magnetic",
+    "best-of-breed",
+    "cross-platform",
+    "next-generation"
+  ],
+  "soldBy": "67612384-968a-4aef-a81f-eb4ab9b2dd67",
+  "email": [
+    {
+      "id": "17f51148-b2aa-4f24-b23d-5b5c799e6604",
+      "purpose": "support",
+      "address": "support12@unwritten-inch.name"
+    }
+  ],
+  "domain": [
+    {
+      "id": "a83e51c1-e50a-4c82-8c34-6c2c793e9f58",
+      "purpose": "subDomain",
+      "address": "https://queasy-neighborhood.unwritten-inch.name/"
+    },
+    {
+      "id": "b018ae1c-f2a0-460b-9aab-c370133157ac",
+      "purpose": "subDomain",
+      "address": "https://enormous-flip-flops.unwritten-inch.name/"
+    },
+    {
+      "id": "900a894d-ed78-4eb3-a205-5e65761fa321",
+      "purpose": "subDomain",
+      "address": "http://creative-exception.unwritten-inch.name/"
+    },
+    {
+      "id": "b687d192-9a85-4020-bd81-c08e6534d4ce",
+      "purpose": "subDomain",
+      "address": "http://prestigious-car.unwritten-inch.name/"
+    },
+    {
+      "id": "ec68bd23-699b-4aec-b1d5-c8f18f42d3b5",
+      "purpose": "subDomain",
+      "address": "http://same-lunch.unwritten-inch.name/"
+    }
+  ],
+  "phone": [
+    {
+      "id": "931440f3-4bbb-4ad3-8976-8aef2c59bcc2",
+      "purpose": "operator",
+      "number": "042-396-4751"
+    },
+    {
+      "id": "bf704fb3-bcc9-486a-bab9-a9caa068c264",
+      "purpose": "support",
+      "number": "489-963-2467"
+    },
+    {
+      "id": "837a6876-5b3f-416b-926e-0382d89fc664",
+      "purpose": "operator",
+      "number": "569-942-2257"
+    },
+    {
+      "id": "0220b582-b4cc-4f9d-a4cd-c15df6d8230e",
+      "purpose": "internal",
+      "number": "337-457-0274"
+    },
+    {
+      "id": "b5d99741-5b93-4b71-82b1-67829e976603",
+      "purpose": "warehouses",
+      "number": "954-349-7281"
+    },
+    {
+      "id": "a74f024b-0303-496b-8f15-8ca71d350f5c",
+      "purpose": "sales",
+      "number": "247-153-6759"
+    },
+    {
+      "id": "c9ef2151-1be2-47be-94fc-129a228b1dbf",
+      "purpose": "warehouses",
+      "number": "946-882-8063"
+    },
+    {
+      "id": "ad5baacb-a96a-47f8-991f-24e413f20096",
+      "purpose": "internal",
+      "number": "120-621-2424"
+    },
+    {
+      "id": "f30c8df2-fd25-4377-a4af-6c005b9ffb56",
+      "purpose": "services",
+      "number": "081-881-2892"
+    }
+  ],
+  "subsidiaryOf": [
+    {
+      "id": "6cf17d6a-a3b2-4784-9b03-149f92e2f03f",
+      "parentId": "310684f5-7a45-4085-b7b3-9fe109e6ae79",
+      "number": "Bradtke Group"
+    }
+  ],
+  "parentOf": [],
+  "companyHQ": {
+    "street": "83250 Bednar Burgs",
+    "city": "Livonia",
+    "state": "Louisiana",
+    "country": "Serbia",
+    "postal": "55346",
+    "latitude": "63.9376",
+    "longitude": "-19.0617"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "lastChangeReason": "Reflect new company slogan",
+    "lastUpdatedOn": "2012-08-08T03:10:13.011Z",
+    "lastUpdatedBy": "9c2f98dc-de7a-4d05-9220-e0d4dddb931b",
+    "createdOn": "2009-11-13T17:14:19.610Z",
+    "createdBy": "f06bc580-cf9f-4a10-bea2-10d76d590e04"
+  }
+}
