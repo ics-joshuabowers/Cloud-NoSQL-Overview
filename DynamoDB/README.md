@@ -1,6 +1,6 @@
 # Key Value Databases
 
-We will be using an adapted version of the [Northwind dataset](https://github.com/graphql-compose/graphql-compose-examples/tree/master/examples/northwind/data/json) in it's flattened JSON form. To represent the power of a document we have combined these flattened documents into rich hierarchies to take advantage of the mongodb api in DocumentDB and CosmosDB.
+We will be using an adapted version of the [Northwind dataset](get with hierarchies ) in it's flattened JSON form. To represent the power of a document we have combined these flattened documents into rich hierarchies to take advantage of the mongodb api in DocumentDB and CosmosDB.
 
 ![Northwind ERD](https://www.trek10.com/assets/content_posts_2019-01-02-dynamodb-single-table-relational-modeling_northwind-erd.png)
 
