@@ -10,7 +10,10 @@ We will be using an adapted version of the [Northwind dataset](get with hierarch
 The dataset above is meant to demonstrate functionality not for testing performance. To test the performance of the document api you would need a much larger dataset. That can be found at https://bowerspro.com/joshua/fakedata/eCommerceData/. There I have generated data with millions of documents, you will need 7zip installed to unzip it but once you have the data unzipped there will be many files where each file should be an array of documents that you can loop through to insert into the desired database. This utilizes real text from the gutenberg project and public patent records to make the titles descriptions more realistic and searchable.
 
 
+## Setup
+To get this working make sure the role being used in the SageMaker notebook has the power user polices. Note, this is not recommended for production by any means just for demo purposes.
+
 ## Table Structure
 Table Name: employees
 partition key: employeeID
-sort key: firstName, lastName, birthDate, status, employeeID
+sort key: firstName, lastName, birth year, birth month, birth day, id
